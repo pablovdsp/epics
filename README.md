@@ -2,6 +2,12 @@
   Vagas EPICS - Teste Back-end
 </h1>
 
+## Requirements
+* PHP 7.2
+* Composer
+* Postman
+* MySQL
+
 ## Clone this Repository
 ```sh
 git clone https://github.com/pablovdsp/epics.git
@@ -16,7 +22,6 @@ composer install
 php artisan migrate
 ```
 ## Import the .json file to your Postman
-<hr>
 
 ## Unit Tests
 Run the Migration with seeds
